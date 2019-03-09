@@ -1,2 +1,2 @@
 # Lista1
-Lista 01 de Desenvolvimento Web - Curriculum Vitae
+ https://bruceias.github.io/Lista1/
